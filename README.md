@@ -1,7 +1,7 @@
+# EXP NAME: Linear-Block-Code
 # NAME: KALAIVANI D
 # REG NO: 212224060113
-# EXP NO: 6
-# EXP NAME: Linear-Block-Code
+
 # Aim:
 To perform linear block code operation for the given input.
 
